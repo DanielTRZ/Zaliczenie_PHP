@@ -54,8 +54,7 @@ $usaeuro = $dolary / $euro ;
       else {
        echo "Nie zaznaczylez zadnej opcji";
  }
-    
-    
+        
 ?>
 <h3>Wyskakuje bład dopóki nie zaznaczy sie opcji ..<br>
 Pozatym wszystko działa.</h3>
