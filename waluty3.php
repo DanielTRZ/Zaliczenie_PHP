@@ -56,7 +56,7 @@ $usaeuro = $dolary / $euro ;
  }
         
 ?>
-<h3>Wyskakuje bład dopóki nie zaznaczy sie opcji ..<br>
+<h3>Wyskakuje bład dopóki nie zaznaczy się opcji ..<br>
 Pozatym wszystko działa.</h3>
 </html>
 
