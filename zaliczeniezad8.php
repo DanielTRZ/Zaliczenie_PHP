@@ -24,8 +24,8 @@
             echo 'Plik jest pusty!';
             exit;
            }
-  foreach($tablica as $wiersz)
-  echo $wiersz.'<br />';
+           foreach($tablica as $wiersz)
+           echo $wiersz.'<br />';
 ?>
 
   </body>
