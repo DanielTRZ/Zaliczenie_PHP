@@ -9,7 +9,6 @@
      <meta name="Daniel" content="php">
      <meta http-equiv="X-Ua-Compatible" content="IE=edge,chrome=1">
      <link rel="stylesheet" href="arkusz.css">
-
   </head>
   <body>
  
@@ -25,7 +24,8 @@
   <br>
   Start: <?php echo $_GET['Start']?><br>
   Stop: <?php echo $_GET['Stop']?><br>
- <br>
+ <br>  
+    
 <?php
       $numer1 = $_GET["Start"];
       $numer2 = $_GET["Stop"];
@@ -33,7 +33,8 @@
    
       for($i=$numer1; $i<=$numer2; $i++){
       echo " -- ".$i;
-  }     
-      ?>     
+      }     
+      ?>  
+    
   </body>
 </html>
