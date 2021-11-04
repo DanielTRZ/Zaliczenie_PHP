@@ -11,17 +11,14 @@
   </head>
  <body>
   
-  <?php
-      
-      
-      
+  <?php               
        $liczby = '2,6,10'; 
        $liczba = explode(',', $liczby); 
        $sumaParzyste = 0;
        $sumaNieparzyste = 0;
-foreach($liczba as $liczba)
-{
-  if(($liczba%2) == 0)
+       foreach($liczba as $liczba)
+  {
+       if(($liczba%2) == 0)
   {
 	  $parzyste[] = $liczba;
 	  $sumaParzyste += $liczba;
@@ -31,8 +28,7 @@ foreach($liczba as $liczba)
    {
 	  $nieparzyste[] = $liczba;
 	  $sumaNieparzyste += $liczba;
-        echo "<br />Błędne dane liczba nieparzysta ";
-     
+        echo "<br />Błędne dane liczba nieparzysta ";     
       
    }
       
