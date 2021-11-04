@@ -17,14 +17,13 @@
        $sumaParzyste = 0;
        $sumaNieparzyste = 0;
        foreach($liczba as $liczba)
-  {
+      {
        if(($liczba%2) == 0)
-  {
+      {
 	  $parzyste[] = $liczba;
 	  $sumaParzyste += $liczba;
-   }
-   
-   else
+      }
+       else
    {
 	  $nieparzyste[] = $liczba;
 	  $sumaNieparzyste += $liczba;
@@ -35,9 +34,7 @@
   }
      echo $liczby." <br>Liczby to ".$liczby." Suma liczb Parzystych ".$sumaParzyste;
     
-         
- 
- 
+          
    
       
  ?>
