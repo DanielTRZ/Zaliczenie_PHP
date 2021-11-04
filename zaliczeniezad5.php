@@ -2,7 +2,6 @@
 <html lang="pl">
 
   <head>
-
      <meta charset="utf-8">
      <title>Daniel zadanie5</title>
      <meta name="description" content="php">
@@ -10,7 +9,6 @@
      <meta name="Daniel" content="php">
      <meta http-equiv="X-Ua-Compatible" content="IE=edge,chrome=1">
      <link rel="stylesheet" href="arkusz.css">
-
   </head>
   <body>
   
