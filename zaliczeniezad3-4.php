@@ -30,9 +30,8 @@
       echo $owoce[$k]."<br \>";}
    ?>
       <?php
-       
-      
-  $dane=array(12, "Samochód", 13.8, "Komputer", 13);
+            
+    $dane=array(12, "Samochód", 13.8, "Komputer", 13);
   $suma = array_sum($dane); 
   echo "Suma liczb to : ".$suma; 
       echo "<br>";
