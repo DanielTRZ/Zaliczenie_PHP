@@ -6,12 +6,8 @@
  
 <label><input type="radio" name="waluta1" value="1">EUR>USA</label> 
 <label><input type="radio" name="waluta2" value="2"> EUR>PLN</label> 
-
-<label><input type="radio" name="waluta3" value="3">PL>USA
-</label> 
-
-<label><input type="radio" name="waluta4" value="4"> USA>EUR
-</label> 
+<label><input type="radio" name="waluta3" value="3">PL>USA</label> 
+<label><input type="radio" name="waluta4" value="4"> USA>EUR</label> 
 <label><input type="radio" name="waluta5" value="5"> PL>EUR
 </label> 
 
