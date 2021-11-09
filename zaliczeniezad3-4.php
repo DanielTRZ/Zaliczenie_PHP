@@ -20,16 +20,16 @@
       echo "Ostatni owoc to: $owoce[3]";
       echo "<br>";
       ?>
-     <?php
+    <?php
 
-   $owoce =array("Banan","Kiwi","Ananas","Jabłko");   
+     $owoce =array("Banan","Kiwi","Ananas","Jabłko");   
       sort($owoce);
  
       for ($k=0; $k <= 3; $k++){
       echo"<br>";    
       echo $owoce[$k]."<br \>";}
    ?>
-      <?php
+   <?php
             
     $dane=array(12, "Samochód", 13.8, "Komputer", 13);
     $suma = array_sum($dane); 
@@ -39,15 +39,17 @@
     foreach ($dane as $tab ){
     echo $tab.', ';
     }
-      ?>
-      <?php
-      
-       $dane=array(12, "Samochód", 13.8, "Komputer", 13);
+     ?>
+    
+   <?php
+    
+      $dane=array(12, "Samochód", 13.8, "Komputer", 13);
        echo "<br>";
        echo $dane[1];
        echo "<br>";
        echo $dane[3];
-      ?>
+    
+     ?>
       
     </body>
 </html>
