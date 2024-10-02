@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="pl">
 
-  <head>
+<head>
      <meta charset="utf-8">
      <title>Daniel zadanie Liczby</title>
      <meta name="description" content="php">
