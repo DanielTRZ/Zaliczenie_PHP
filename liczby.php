@@ -19,7 +19,7 @@ Liczba Końcowa <input type=numeric name="Stop"/><br/>
 <br>
 <input type=submit value="Wyślij"/>
 </form>
-  <br>
+<br>
   <br>
   Start: <?php echo $_GET['Start']?><br>
   Stop: <?php echo $_GET['Stop']?><br>
