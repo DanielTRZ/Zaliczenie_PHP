@@ -18,7 +18,7 @@ Liczba Początkowa <input type=numeric name="Start"/><br/>
 Liczba Końcowa <input type=numeric name="Stop"/><br/>
 <br>
 <input type=submit value="Wyślij"/>
-  </form>
+</form>
   <br>
   <br>
   Start: <?php echo $_GET['Start']?><br>
