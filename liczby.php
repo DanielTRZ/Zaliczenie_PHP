@@ -10,7 +10,7 @@
 <meta http-equiv="X-Ua-Compatible" content="IE=edge,chrome=1">
 <link rel="stylesheet" href="arkusz.css">
 </head>
-  <body>
+<body>
  
   <form action="liczby.php" method="GET">
    Liczba Początkowa <input type=numeric name="Start"/><br/>
