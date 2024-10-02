@@ -15,8 +15,7 @@
  <form action="liczby.php" method="GET">
   Liczba Początkowa <input type=numeric name="Start"/><br/>
  <br>
-
-   Liczba Końcowa <input type=numeric name="Stop"/><br/>
+Liczba Końcowa <input type=numeric name="Stop"/><br/>
    <br>
   <input type=submit value="Wyślij"/>
   </form>
