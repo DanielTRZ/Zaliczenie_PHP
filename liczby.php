@@ -17,7 +17,7 @@ Liczba Początkowa <input type=numeric name="Start"/><br/>
 <br>
 Liczba Końcowa <input type=numeric name="Stop"/><br/>
 <br>
-  <input type=submit value="Wyślij"/>
+<input type=submit value="Wyślij"/>
   </form>
   <br>
   <br>
