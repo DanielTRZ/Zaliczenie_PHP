@@ -5,7 +5,7 @@
 <meta charset="utf-8">
      <title>Daniel zadanie Liczby</title>
      <meta name="description" content="php">
-     <meta name="keywords" content="zadanie 3,4">
+<meta name="keywords" content="zadanie 3,4">
 <meta name="Daniel" content="php">
 <meta http-equiv="X-Ua-Compatible" content="IE=edge,chrome=1">
 <link rel="stylesheet" href="arkusz.css">
