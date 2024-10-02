@@ -21,7 +21,7 @@ Liczba Końcowa <input type=numeric name="Stop"/><br/>
 </form>
 <br>
 <br>
-  Start: <?php echo $_GET['Start']?><br>
+ Start: <?php echo $_GET['Start']?><br>
   Stop: <?php echo $_GET['Stop']?><br>
  <br>  
     
