@@ -13,7 +13,7 @@
 <body>
  
  <form action="liczby.php" method="GET">
-  Liczba Początkowa <input type=numeric name="Start"/><br/>
+Liczba Początkowa <input type=numeric name="Start"/><br/>
  <br>
 Liczba Końcowa <input type=numeric name="Stop"/><br/>
    <br>
