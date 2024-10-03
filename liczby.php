@@ -34,6 +34,5 @@ for($i=$numer1; $i<=$numer2; $i++){
 echo " -- ".$i;
 }     
 ?>  
-    
-  </body>
+</body>
 </html>
