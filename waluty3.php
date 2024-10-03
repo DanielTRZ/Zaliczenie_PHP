@@ -1,7 +1,7 @@
 <html lang="pl">
 <form action="waluty3.php" method="post">
 <input type="text" name="zlote">
-    <p>Wybierz walutę na którą ma być przeliczona wartosc</p>
+<p>Wybierz walutę na którą ma być przeliczona wartosc</p>
 <br>
  
 <label><input type="radio" name="waluta1" value="1">EUR>USA</label> 
