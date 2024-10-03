@@ -26,7 +26,7 @@ Stop: <?php echo $_GET['Stop']?><br>
 <br>  
     
 <?php
-      $numer1 = $_GET["Start"];
+$numer1 = $_GET["Start"];
       $numer2 = $_GET["Stop"];
       echo " Liczby z przedziału ; ".$numer1." i ".$numer2."<br>to ;";     
    
