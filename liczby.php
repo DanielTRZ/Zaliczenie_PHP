@@ -30,7 +30,7 @@ $numer1 = $_GET["Start"];
 $numer2 = $_GET["Stop"];
 echo " Liczby z przedziału ; ".$numer1." i ".$numer2."<br>to ;";     
    
-      for($i=$numer1; $i<=$numer2; $i++){
+for($i=$numer1; $i<=$numer2; $i++){
       echo " -- ".$i;
       }     
       ?>  
