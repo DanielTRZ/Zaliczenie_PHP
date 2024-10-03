@@ -27,7 +27,7 @@ $europln = $euro / $zlote;
 $usaeuro = $dolary / $euro ;  
     
 }
-    if( isset($_POST['waluta1']) ){
+if( isset($_POST['waluta1']) ){
 
     echo "$zlote euro = $eurousa dolara";}
   else if( isset($_POST['waluta2']) )
