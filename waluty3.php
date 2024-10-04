@@ -40,7 +40,7 @@ else if( isset($_POST['waluta3']) ){
 echo "$zlote zlotych = $wynikd dolary";
          
 }
-     else if( isset($_POST['waluta4']) ){
+else if( isset($_POST['waluta4']) ){
          echo "$zlote dolar = $usaeuro euro";
      }
      else if( isset($_POST['waluta5']) ){
