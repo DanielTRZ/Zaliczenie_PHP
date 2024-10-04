@@ -12,7 +12,7 @@
 </head>
 <body>
   
-  <?php
+<?php
       
       $numer = 4;
       $numer2 ="4";
