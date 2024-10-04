@@ -33,7 +33,7 @@ echo "$zlote euro = $eurousa dolara";}
 else if( isset($_POST['waluta2']) )
 {
       
-     echo "$zlote euro = $europln zlotego";
+echo "$zlote euro = $europln zlotego";
         
     }
      else if( isset($_POST['waluta3']) ){
