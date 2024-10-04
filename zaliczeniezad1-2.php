@@ -14,7 +14,7 @@
   
 <?php
       
-      $numer = 4;
+$numer = 4;
       $numer2 ="4";
        
         if($numer==$numer2){
