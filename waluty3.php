@@ -47,7 +47,7 @@ else if( isset($_POST['waluta5']) ){
 echo "$zlote zloty = $wynike euro";
 }
 else {
-       echo "Nie zaznaczylez zadnej opcji";
+echo "Nie zaznaczylez zadnej opcji";
  }
    
 ?>
