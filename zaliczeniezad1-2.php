@@ -20,7 +20,7 @@ $numer2 ="4";
 if($numer==$numer2){
 echo " $numer jest równy $numer2";}
 else{
-        echo "$numer nie jest równy $numer2";}
+echo "$numer nie jest równy $numer2";}
         echo "<br>";  
       
         if($numer===$numer2){
