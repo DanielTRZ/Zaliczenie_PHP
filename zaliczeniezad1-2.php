@@ -15,7 +15,7 @@
 <?php
       
 $numer = 4;
-      $numer2 ="4";
+$numer2 ="4";
        
         if($numer==$numer2){
         echo " $numer jest równy $numer2";}
