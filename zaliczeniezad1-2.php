@@ -43,7 +43,7 @@ echo "$a1 jest mniejsze $b2 a $b2 jest wieksza od $c3";
 echo"<br>";
 echo "Największa liczbą jest $b2";
 
-    } 
+} 
       ?>
 
   </body>
