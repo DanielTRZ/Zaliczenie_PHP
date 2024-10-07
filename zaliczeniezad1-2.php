@@ -23,7 +23,7 @@ else{
 echo "$numer nie jest równy $numer2";}
 echo "<br>";  
       
-        if($numer===$numer2){
+if($numer===$numer2){
         echo " $numer jest tego samego typu $numer2";}
         else{
         echo "$numer nie jest tego samego typu  $numer2";}
