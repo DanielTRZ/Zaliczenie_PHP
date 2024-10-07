@@ -27,7 +27,7 @@ if($numer===$numer2){
 echo " $numer jest tego samego typu $numer2";}
 else{
 echo "$numer nie jest tego samego typu  $numer2";}
-        echo"<br>"; 
+echo"<br>"; 
             
       // operator ==	Prawda jeśli $a jest równe $b.
       // operator ===   Prawda jeśli $a jest równe $b i są tego samego typu
