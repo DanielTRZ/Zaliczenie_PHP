@@ -31,7 +31,7 @@ echo"<br>";
             
 // operator ==	Prawda jeśli $a jest równe $b. 
 // operator ===   Prawda jeśli $a jest równe $b i są tego samego typu
-    ?>
+?>
     <?php
       
       $a1=2;
