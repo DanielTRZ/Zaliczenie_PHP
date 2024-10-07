@@ -39,7 +39,7 @@ $b2=8;
 $c3=6;
 if ($a1 < $b2 || $b< $c3){
 echo "<br>";
-        echo "$a1 jest mniejsze $b2 a $b2 jest wieksza od $c3";
+echo "$a1 jest mniejsze $b2 a $b2 jest wieksza od $c3";
         echo"<br>";
         echo "Największa liczbą jest $b2";
 
