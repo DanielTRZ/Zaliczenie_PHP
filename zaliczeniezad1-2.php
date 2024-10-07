@@ -25,7 +25,7 @@ echo "<br>";
       
 if($numer===$numer2){
 echo " $numer jest tego samego typu $numer2";}
-        else{
+else{
         echo "$numer nie jest tego samego typu  $numer2";}
         echo"<br>"; 
             
