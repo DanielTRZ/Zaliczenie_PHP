@@ -46,5 +46,5 @@ echo "Największa liczbą jest $b2";
 } 
 ?>
 
-  </body>
+</body>
 </html>
