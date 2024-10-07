@@ -4,7 +4,7 @@
 <head>
 <meta charset="utf-8">
 <title>Daniel zadanie 8</title>
-     <meta name="description" content="php">
+<meta name="description" content="php">
      <meta name="keywords" content="php zadania8">
      <meta name="Daniel" content="php">
      <meta http-equiv="X-Ua-Compatible" content="IE=edge,chrome=1">
