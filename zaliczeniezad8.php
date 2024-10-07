@@ -2,7 +2,7 @@
 <html lang="pl">
 
   <head>
-     <meta charset="utf-8">
+<meta charset="utf-8">
      <title>Daniel zadanie 8</title>
      <meta name="description" content="php">
      <meta name="keywords" content="php zadania8">
