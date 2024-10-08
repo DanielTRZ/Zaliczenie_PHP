@@ -9,7 +9,7 @@
 <meta name="Daniel" content="php">
 <meta http-equiv="X-Ua-Compatible" content="IE=edge,chrome=1">
 <link rel="stylesheet" href="arkusz.css">
-  </head>
+</head>
   <body>
      
        <?php
