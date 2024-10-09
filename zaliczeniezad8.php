@@ -15,7 +15,7 @@
 <?php
 if (!file_exists('sedziowie.txt')) 
 {
-            echo 'Nie znaleziono pliku!';
+          echo 'Nie znaleziono pliku!';
             exit;
            }
             $tablica=file('sedziowie.txt');
