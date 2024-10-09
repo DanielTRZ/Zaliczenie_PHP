@@ -16,7 +16,7 @@
 if (!file_exists('sedziowie.txt')) 
 {
 echo 'Nie znaleziono pliku!';
-            exit;
+          exit;
            }
             $tablica=file('sedziowie.txt');
             if (count($tablica)===0)
