@@ -12,7 +12,7 @@
 </head>
 <body>
      
-       <?php
+<?php
             if (!file_exists('sedziowie.txt')) 
            {
             echo 'Nie znaleziono pliku!';
