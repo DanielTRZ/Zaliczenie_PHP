@@ -21,7 +21,7 @@ exit;
 $tablica=file('sedziowie.txt');
 if (count($tablica)===0)
 {
-            echo 'Plik jest pusty!';
+echo 'Plik jest pusty!';
             exit;
            }
            foreach($tablica as $wiersz)
