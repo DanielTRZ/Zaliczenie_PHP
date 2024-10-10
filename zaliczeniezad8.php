@@ -20,7 +20,7 @@ exit;
 }
 $tablica=file('sedziowie.txt');
 if (count($tablica)===0)
-           {
+{
             echo 'Plik jest pusty!';
             exit;
            }
