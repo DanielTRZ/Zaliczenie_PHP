@@ -19,7 +19,7 @@ echo 'Nie znaleziono pliku!';
 exit;
 }
 $tablica=file('sedziowie.txt');
-            if (count($tablica)===0)
+if (count($tablica)===0)
            {
             echo 'Plik jest pusty!';
             exit;
