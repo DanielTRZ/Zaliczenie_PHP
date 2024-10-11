@@ -24,7 +24,7 @@ if (count($tablica)===0)
 echo 'Plik jest pusty!';
 exit;
 }
-           foreach($tablica as $wiersz)
+foreach($tablica as $wiersz)
            echo $wiersz.'<br />';
         ?>
 
