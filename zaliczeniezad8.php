@@ -26,7 +26,7 @@ exit;
 }
 foreach($tablica as $wiersz)
 echo $wiersz.'<br />';
-        ?>
+?>
 
   </body>
 </html>
