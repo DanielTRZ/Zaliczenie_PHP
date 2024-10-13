@@ -3,7 +3,7 @@
 
 <head>
 <meta charset="utf-8">
-     <title>Daniel zadanie 3-4</title>
+<title>Daniel zadanie 3-4</title>
      <meta name="description" content="php">
      <meta name="keywords" content="zadanie 3,4">
      <meta name="Daniel" content="php">
