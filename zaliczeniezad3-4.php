@@ -14,7 +14,7 @@
   
 <?php
       
-  $owoce =array("Banan","Kiwi","Ananas","Jabłko");
+$owoce =array("Banan","Kiwi","Ananas","Jabłko");
       echo "Pierwszy owoc to : $owoce[0]";
       echo"<br>";
       echo "Ostatni owoc to: $owoce[3]";
