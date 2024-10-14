@@ -12,7 +12,7 @@
 </head>
 <body>
   
-  <?php
+<?php
       
   $owoce =array("Banan","Kiwi","Ananas","Jabłko");
       echo "Pierwszy owoc to : $owoce[0]";
