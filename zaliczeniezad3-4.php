@@ -20,7 +20,7 @@ echo"<br>";
 echo "Ostatni owoc to: $owoce[3]";
 echo "<br>";
 ?>
-    <?php
+<?php
 
      $owoce =array("Banan","Kiwi","Ananas","Jabłko");   
       sort($owoce);
