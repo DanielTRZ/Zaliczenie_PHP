@@ -23,7 +23,7 @@ echo "<br>";
 <?php
 
 $owoce =array("Banan","Kiwi","Ananas","Jabłko");   
-      sort($owoce);
+sort($owoce);
  
       for ($k=0; $k <= 3; $k++){
       echo"<br>";    
