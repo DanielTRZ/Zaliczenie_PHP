@@ -25,7 +25,7 @@ echo "<br>";
 $owoce =array("Banan","Kiwi","Ananas","Jabłko");   
 sort($owoce);
  
-      for ($k=0; $k <= 3; $k++){
+for ($k=0; $k <= 3; $k++){
       echo"<br>";    
       echo $owoce[$k]."<br \>";}
    ?>
