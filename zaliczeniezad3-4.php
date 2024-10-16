@@ -29,7 +29,7 @@ for ($k=0; $k <= 3; $k++){
 echo"<br>";    
 echo $owoce[$k]."<br \>";}
 ?>
-   <?php
+<?php
             
     $dane=array(12, "Samochód", 13.8, "Komputer", 13);
     $suma = array_sum($dane); 
