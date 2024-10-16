@@ -27,7 +27,7 @@ sort($owoce);
  
 for ($k=0; $k <= 3; $k++){
 echo"<br>";    
-      echo $owoce[$k]."<br \>";}
+echo $owoce[$k]."<br \>";}
    ?>
    <?php
             
