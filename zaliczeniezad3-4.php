@@ -37,7 +37,7 @@ echo "Suma liczb to : ".$suma;
 echo "<br>";
   
 foreach ($dane as $tab ){
-    echo $tab.', ';
+echo $tab.', ';
     }
      ?>
     
