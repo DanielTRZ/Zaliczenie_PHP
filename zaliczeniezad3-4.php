@@ -38,7 +38,7 @@ echo "<br>";
   
 foreach ($dane as $tab ){
 echo $tab.', ';
-    }
+}
      ?>
     
    <?php
