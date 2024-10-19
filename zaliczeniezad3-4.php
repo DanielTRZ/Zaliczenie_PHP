@@ -41,7 +41,7 @@ echo $tab.', ';
 }
 ?>
     
-   <?php
+<?php
     
       $dane=array(12, "Samochód", 13.8, "Komputer", 13);
        echo "<br>";
