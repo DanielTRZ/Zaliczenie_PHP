@@ -49,7 +49,7 @@ echo $dane[1];
 echo "<br>";
 echo $dane[3];
     
-  ?>
+?>
       
     </body>
 </html>
