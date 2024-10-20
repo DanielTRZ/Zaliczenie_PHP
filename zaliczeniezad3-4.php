@@ -47,7 +47,7 @@ $dane=array(12, "Samochód", 13.8, "Komputer", 13);
 echo "<br>";
 echo $dane[1];
 echo "<br>";
-  echo $dane[3];
+echo $dane[3];
     
      ?>
       
