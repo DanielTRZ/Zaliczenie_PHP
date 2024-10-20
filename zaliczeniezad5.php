@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="pl">
-  <head>
+<head>
      <meta charset="utf-8">
      <title>Daniel zadanie5</title>
      <meta name="description" content="php">
