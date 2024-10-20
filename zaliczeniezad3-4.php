@@ -51,5 +51,5 @@ echo $dane[3];
     
 ?>
       
-    </body>
+</body>
 </html>
