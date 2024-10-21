@@ -14,7 +14,7 @@
 <?php               
 $liczby = '2,6,10'; 
 $liczba = explode(',', $liczby); 
-       $sumaParzyste = 0;
+$sumaParzyste = 0;
        $sumaNieparzyste = 0;
        foreach($liczba as $liczba)
       {
