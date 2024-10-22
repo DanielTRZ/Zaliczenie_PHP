@@ -17,7 +17,7 @@ $liczba = explode(',', $liczby);
 $sumaParzyste = 0;
 $sumaNieparzyste = 0;
 foreach($liczba as $liczba)
-      {
+{
        if(($liczba%2) == 0)
       {
 	  $parzyste[] = $liczba;
