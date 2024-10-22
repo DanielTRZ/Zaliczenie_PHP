@@ -20,7 +20,7 @@ foreach($liczba as $liczba)
 {
 if(($liczba%2) == 0)
 {
-	  $parzyste[] = $liczba;
+	$parzyste[] = $liczba;
 	  $sumaParzyste += $liczba;
       }
        else
