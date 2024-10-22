@@ -23,7 +23,7 @@ if(($liczba%2) == 0)
 $parzyste[] = $liczba;
 $sumaParzyste += $liczba;
 }
-       else
+else
      {
 	  $nieparzyste[] = $liczba;
 	  $sumaNieparzyste += $liczba;
