@@ -21,7 +21,7 @@ foreach($liczba as $liczba)
 if(($liczba%2) == 0)
 {
 $parzyste[] = $liczba;
-	  $sumaParzyste += $liczba;
+	$sumaParzyste += $liczba;
       }
        else
      {
