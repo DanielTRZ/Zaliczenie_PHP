@@ -26,7 +26,7 @@ $sumaParzyste += $liczba;
 else
 {
 $nieparzyste[] = $liczba;
-	  $sumaNieparzyste += $liczba;
+	$sumaNieparzyste += $liczba;
        echo "<br />Błędne dane liczba nieparzysta ";     
      }
       
