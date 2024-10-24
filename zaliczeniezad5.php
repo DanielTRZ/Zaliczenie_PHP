@@ -31,7 +31,7 @@ echo "<br />Błędne dane liczba nieparzysta ";
 }
       
 }
-    echo $liczby." <br>Liczby to ".$liczby." Suma liczb Parzystych ".$sumaParzyste;
+echo $liczby." <br>Liczby to ".$liczby." Suma liczb Parzystych ".$sumaParzyste;
      ?>    
 
   </body>
